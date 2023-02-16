@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Crete+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+*,
+::after,
+::before {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+header {
+  background-color: #3c3a39;
+  color: white;
+}
+
+nav a {
+  text-decoration: none;
+}
+
+.name {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 24px;
+  text-align: center;
+}
+
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  align-items: center;
+  padding: 1px 24px;
+}
+
+.headline-section {
+  background-color: #1c1a19;
+  color: white;
+  background-image: url(/images/backgroundimage.svg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  background-size: 44%;
+}
+
+.headline-section h1 {
+  color: #ff6b00;
+  font-family: 'Crete Round', serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  margin: 1px;
+  line-height: 1em;
+}
+
+.headline-section h2 {
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+.headline-section,
+p {
+  font-family: 'Poppins', sans-serif;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.header-social li {
+  list-style: none;
+  padding: 7px;
+  display: flex;
+  flex-direction: row;
+}
+
+.header-social img {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+}
+
+/* [768px -> 1200px] */
+
+/*
+
+@media only screen and (max-width: 1200px) {
+}
+
+@media screen and (min-width: 661px) and (max-width: 768px) {
+}
+*/
+@media screen and (min-width: 375px) and (max-width: 660px) {
+  .headline-section {
+    padding: 120px 24px;
+  }
+
+  .nav-links {
+    display: none;
+  }
+
+  .header-social {
+    list-style: none;
+    padding: 7px;
+    display: flex;
+    flex-direction: row;
+  }
+}
