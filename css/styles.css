@@ -3,9 +3,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
 
-*, *::before, *::after {
-  box-sizing: border-box;
-}
 html, body {
   margin:0;
   padding:0;
@@ -52,9 +49,8 @@ text-align: center;
   padding: 120px 24px;
 }
 
-
 .headline-section h1{
-  color: #FF6B00;
+  color: #ff6B00;
   font-family: 'Crete Round', serif;
   font-style: normal;
   font-weight: 400;
@@ -77,9 +73,6 @@ text-align: center;
   line-height: 32px;
 
 }
-
-
-
 .header-social li{
 list-style: none;
 padding: 7px;
@@ -89,14 +82,10 @@ flex-direction: row;
 
 /*[768px -> 1200px]*/
 @media only screen and (max-width: 1200px) { 
-
 }
-
 
 @media screen and (min-width: 661px) and (max-width: 768px) {
 }
-
-
 
 @media screen and (min-width: 375px) and (max-width: 660px) {
 
