@@ -83,6 +83,12 @@ p {
   flex-direction: row;
 }
 
+.header-social img {
+  height: 20px;
+  width: 20px;
+  margin-left: 10px;
+}
+
 /* [768px -> 1200px] */
 
 /*

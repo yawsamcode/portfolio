@@ -109,8 +109,8 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 ```sh
-  npm intall -g live-server
-  live-server
+npm install -g live-server
+live-server
 ```
 
 ### Setup
@@ -122,9 +122,8 @@ commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/yawsamcode/sam-portfolio.git
+git clone https://github.com/yawsamcode/sam-portfolio.git
 ```
--
 
 ### Install
 
@@ -135,7 +134,7 @@ command:
 
 ```sh
   cd my-project
-  npm install
+npm install
 ```
 
 
