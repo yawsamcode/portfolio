@@ -114,7 +114,6 @@ padding-top: 4rem;
   letter-spacing: 0em;
   text-align: left;
 }
-<<<<<<< HEAD
 
 .recent-work-photo {
   margin-top: 5rem;
@@ -155,7 +154,6 @@ text-align: left;
   display: flex;
   justify-items: space-between;
 }
-=======
 
 .recent-work-photo {
   margin-top: 5rem;
@@ -196,7 +194,7 @@ text-align: left;
   display: flex;
   justify-items: space-between;
 }
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
+
 .stack-style2 {
   padding: 10px 12px;
   background: rgba(255, 255, 255, 0.24);
@@ -204,11 +202,7 @@ text-align: left;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-<<<<<<< HEAD
   }
-=======
-}
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 
 #stack-margin {
   margin-left: 15px;
@@ -220,21 +214,12 @@ text-align: left;
   background-size: cover;
   color: white;
   padding-top: 20%;
-  
-<<<<<<< HEAD
-  }
-=======
-}
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
+    }
 
 .project-details {
   padding-left: 16px;
   padding-left: 16px;
-<<<<<<< HEAD
   }
-=======
-}
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 
 .project-details h2 {
   font-family: Crete Round;
@@ -243,12 +228,8 @@ text-align: left;
   line-height: 44px;
   letter-spacing: 0em;
   text-align: left;
-
-<<<<<<< HEAD
   }
-=======
-}
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
+
 .see-project-btn {
   background: #ff6b00;
   font-family: 'Inter', sans-serif;
@@ -260,10 +241,7 @@ text-align: left;
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
-<<<<<<< HEAD
   }
-=======
-}
 
 .see-project-btn:hover {
   opacity: 0.9;
@@ -307,7 +285,6 @@ font-size: 16px;
 font-weight: 400;
 line-height: 24px;
 }
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 
 .resume-btn {
   background: #ff6b00;
@@ -322,7 +299,6 @@ line-height: 24px;
   margin-bottom: 20%;
 }
 
-<<<<<<< HEAD
 .see-project-btn:hover {
   opacity: 0.9;
 }
@@ -366,14 +342,10 @@ font-weight: 400;
 line-height: 24px;
 }
 
-
-=======
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 .skills {
   text-align: center;
 }
 
-<<<<<<< HEAD
 .skills-title {
   display: flex;
   align-items: center;
@@ -382,17 +354,16 @@ line-height: 24px;
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
-=======
+  }
+
 .skills-title { 
-display: flex;
-align-items: center;
-justify-content: center;
-font-family: 'InaiMathi', sans-serif;
-font-size: 32px;
-font-weight: 700;
-line-height: 44px;
-letter-spacing: 0em;
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'InaiMathi', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
 }
 
 .skills-title h3 {
@@ -405,17 +376,11 @@ letter-spacing: 0em;
   font-size: 22px;
   font-weight: 400;
   line-height: 43px;
-<<<<<<< HEAD
-=======
-  letter-spacing: 0em;
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 }
 
 .nav-links {
   display: none;
-<<<<<<< HEAD
-}
-=======
 }
 
->>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
+
+
