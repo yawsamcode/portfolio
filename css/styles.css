@@ -114,6 +114,7 @@ padding-top: 4rem;
   letter-spacing: 0em;
   text-align: left;
 }
+<<<<<<< HEAD
 
 .recent-work-photo {
   margin-top: 5rem;
@@ -154,6 +155,48 @@ text-align: left;
   display: flex;
   justify-items: space-between;
 }
+=======
+
+.recent-work-photo {
+  margin-top: 5rem;
+}
+
+#post-title {
+font-family: Crete Round;
+font-size: 32px;
+font-weight: 400;
+line-height: 44px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+article{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.tech-stack {
+  display: flex;
+}
+
+.stack-style1 {
+  padding: 8px 10px;
+  border: 1px solid #8993a4;
+  font-family: Inter;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.stack-used {
+  display: flex;
+  justify-items: space-between;
+}
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 .stack-style2 {
   padding: 10px 12px;
   background: rgba(255, 255, 255, 0.24);
@@ -161,7 +204,11 @@ text-align: left;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
+<<<<<<< HEAD
   }
+=======
+}
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 
 #stack-margin {
   margin-left: 15px;
@@ -174,12 +221,20 @@ text-align: left;
   color: white;
   padding-top: 20%;
   
+<<<<<<< HEAD
   }
+=======
+}
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 
 .project-details {
   padding-left: 16px;
   padding-left: 16px;
+<<<<<<< HEAD
   }
+=======
+}
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 
 .project-details h2 {
   font-family: Crete Round;
@@ -189,7 +244,11 @@ text-align: left;
   letter-spacing: 0em;
   text-align: left;
 
+<<<<<<< HEAD
   }
+=======
+}
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 .see-project-btn {
   background: #ff6b00;
   font-family: 'Inter', sans-serif;
@@ -201,7 +260,54 @@ text-align: left;
   font-weight: 700;
   font-size: 17px;
   line-height: 24px;
+<<<<<<< HEAD
   }
+=======
+}
+
+.see-project-btn:hover {
+  opacity: 0.9;
+}
+.resume-btn:hover {
+  opacity: 0.9;
+}
+
+#long-btn {
+  width: 100%;
+}
+
+.about-me-section {
+  background-color: #1c1a19;
+  color: #f4f5F7;
+  margin-top: 20px;
+  padding: 30px 50px; 
+}
+
+.aboutme-head {
+  background-image: url(/images/about-me-mobile-bg.svg);
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  padding-right: 24px;
+  padding-bottom: 220px;
+}
+
+.about-me-title {
+color: #ff6b00;
+font-family: Crete Round;
+font-size: 72px;
+font-weight: 400;
+line-height: 88px;
+letter-spacing: 0.37px;
+}
+
+.details-aboutme {
+font-family: 'Inter', sans-serif;
+font-style: normal;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+}
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 
 .resume-btn {
   background: #ff6b00;
@@ -216,6 +322,7 @@ text-align: left;
   margin-bottom: 20%;
 }
 
+<<<<<<< HEAD
 .see-project-btn:hover {
   opacity: 0.9;
 }
@@ -260,10 +367,13 @@ line-height: 24px;
 }
 
 
+=======
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 .skills {
   text-align: center;
 }
 
+<<<<<<< HEAD
 .skills-title {
   display: flex;
   align-items: center;
@@ -272,6 +382,17 @@ line-height: 24px;
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
+=======
+.skills-title { 
+display: flex;
+align-items: center;
+justify-content: center;
+font-family: 'InaiMathi', sans-serif;
+font-size: 32px;
+font-weight: 700;
+line-height: 44px;
+letter-spacing: 0em;
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 }
 
 .skills-title h3 {
@@ -284,8 +405,17 @@ line-height: 24px;
   font-size: 22px;
   font-weight: 400;
   line-height: 43px;
+<<<<<<< HEAD
+=======
+  letter-spacing: 0em;
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
 }
 
 .nav-links {
   display: none;
+<<<<<<< HEAD
 }
+=======
+}
+
+>>>>>>> 8e9c0476b3ffbd5e6fea2b8692efb0016540c8a3
