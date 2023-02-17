@@ -203,6 +203,13 @@ text-align: left;
   line-height: 24px;
 }
 
+.see-project-btn:hover {
+  opacity: 0.9;
+}
+.resume-btn:hover {
+  opacity: 0.9;
+}
+
 #long-btn {
   width: 100%;
 }
@@ -265,6 +272,10 @@ font-size: 32px;
 font-weight: 700;
 line-height: 44px;
 letter-spacing: 0em;
+}
+
+.skills-title h3 {
+  margin-left: 15px;
 }
 
 .skills li {
