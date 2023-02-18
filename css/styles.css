@@ -23,7 +23,7 @@ header {
 }
 
 nav a {
-text-decoration: none;
+  text-decoration: none;
 }
 
 .name {
@@ -115,19 +115,6 @@ p {
   margin-top: 5rem;
 }
 
-.tech-stack {
-  display: flex;
-}
-
-.stack-style1 {
-  padding: 8px 10px;
-  border: 1px solid #8993a4;
-  font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-}
-
 .stack-used {
   display: flex;
   justify-items: space-between;
@@ -185,7 +172,6 @@ article {
 }
 
 .project-details {
-  padding-left: 16px;
   padding-left: 16px;
 }
 
@@ -258,10 +244,6 @@ article {
   opacity: 0.9;
 }
 
-#long-btn {
-  width: 100%;
-}
-
 .about-me-title {
   color: #ff6b00;
   font-family: 'Crete Round', sans-serif;
@@ -269,14 +251,6 @@ article {
   font-weight: 400;
   line-height: 88px;
   letter-spacing: 0.37px;
-}
-
-.details-aboutme {
-  font-family: 'Inter', sans-serif;
-  font-style: normal;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
 }
 
 .skills {
