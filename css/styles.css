@@ -111,7 +111,6 @@ p {
   font-size: 40px;
   font-weight: 400;
   line-height: 52px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
@@ -124,18 +123,10 @@ p {
   font-size: 32px;
   font-weight: 400;
   line-height: 44px;
-  letter-spacing: 0em;
   text-align: left;
   }
 
-article{
-  font-family: 'Inter', sans-serif;
-  font-size: 16px;
-  font-weight: 400;
-  line-height: 24px;
-  letter-spacing: 0em;
-  text-align: left;
-  }
+
 
 .tech-stack {
   display: flex;
@@ -164,16 +155,14 @@ article{
   font-size: 32px;
   font-weight: 400;
   line-height: 44px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
-article{
+article {
   font-family: Inter;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
-  letter-spacing: 0em;
   text-align: left;
 }
 
@@ -226,7 +215,6 @@ article{
   font-size: 32px;
   font-weight: 400;
   line-height: 44px;
-  letter-spacing: 0em;
   text-align: left;
   }
 
@@ -264,15 +252,6 @@ article{
   background-position: bottom right;
   padding-right: 24px;
   padding-bottom: 220px;
-}
-
-.about-me-title {
-  color: #ff6b00;
-  font-family: Crete Round;
-  font-size: 72px;
-  font-weight: 400;
-  line-height: 88px;
-  letter-spacing: 0.37px;
 }
 
 .details-aboutme {
@@ -317,7 +296,7 @@ article{
   background-position: bottom right;
   padding-right: 24px;
   padding-bottom: 220px;
-    }
+  }
 
 .about-me-title {
   color: #ff6b00;
@@ -350,19 +329,9 @@ article{
   line-height: 44px;
 }
 
-.skills-title {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-family: 'InaiMathi', sans-serif;
-  font-size: 32px;
-  font-weight: 700;
-  line-height: 44px;
-}
-
 .skills-title h3 {
   margin-left: 15px;
-}
+  }
 
 .skills li {
   list-style: none;
