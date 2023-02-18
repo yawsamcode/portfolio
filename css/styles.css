@@ -92,7 +92,7 @@ p {
   flex-direction: row;
 }
 
-.works-section{
+.works-section {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -119,7 +119,6 @@ p {
   display: flex;
   justify-items: space-between;
 }
-
 
 #post-title {
   font-family: 'Crete Round', sans-serif;
@@ -208,7 +207,7 @@ article {
   background-color: #1c1a19;
   color: #f4f5f7;
   margin-top: 20px;
-  padding: 30px 50px; 
+  padding: 30px 50px;
 }
 
 .aboutme-head {
