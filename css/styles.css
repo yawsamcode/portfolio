@@ -117,7 +117,6 @@ p {
 
 .stack-used {
   display: flex;
-  justify-items: space-between;
 }
 
 #post-title {
@@ -136,8 +135,8 @@ article {
   text-align: left;
 }
 
-.tech-stack {
-  display: flex;
+.tech-stack p {
+  float: left;
 }
 
 .stack-style1 {
