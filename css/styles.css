@@ -115,6 +115,7 @@ p {
   margin-top: 5rem;
 }
 
+
 .stack-used {
   display: flex;
   justify-items: space-between;
@@ -195,10 +196,6 @@ article {
   line-height: 24px;
 }
 
-.see-project-btn:hover {
-  opacity: 0.9;
-}
-
 #long-btn {
   width: 100%;
 }
@@ -239,10 +236,28 @@ article {
   margin-bottom: 20%;
 }
 
-.resume-btn:hover {
+.resume-btn:hover, .submit-btn:hover, .see-project-btn:hover {
   opacity: 0.9;
 }
 
+.submit-btn {
+  
+  background: #ff6b00;
+  font-family: 'Inter', sans-serif;
+  border: none;
+  padding: 12px;
+  color: white;
+  text-align: center;
+  font-weight: 700;
+  font-size: 17px;
+  line-height: 24px;
+  margin-bottom: 20%;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
 .about-me-title {
   color: #ff6b00;
   font-family: 'Crete Round', sans-serif;
@@ -280,4 +295,63 @@ article {
 
 .nav-links {
   display: none;
+}
+
+.form-title {
+  font-family: 'Inter'sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 44px;
+  text-align: center;
+  color: #172b4d;
+  width: 80%;
+  margin: auto;
+  margin-top: 15%;
+}
+
+.footer-social li, form li  {
+  list-style: none
+}
+
+.footer-social{
+  display: flex;
+  justify-content: center;
+  align-content: space-evenly;
+}
+
+.footer-social img {
+margin-right: 25px;
+}
+
+.home-indicator {
+  display: flex;
+  flex-wrap: nowrap;
+	justify-content: space-around;
+	align-items: stretch;
+	align-content: stretch;
+  margin-bottom: 20px;
+}
+
+.form-area {
+  max-width: 100%;
+  margin: auto;
+}
+
+input, textarea {
+  width: 80%;
+  padding: 20px;
+  margin: auto;
+  margin-bottom: 30px;
+  border-left: #f4f5f7;
+  border-right: #f4f5f7;
+  border-top: #f4f5f7;
+  border-bottom: 1px #dbd8d7 solid;
+  font-size: 16px;
+}
+
+.bottom-line {
+  background-color:#0d151e;
+  height: 5px;
+  width: 134px;
+  border-radius: 10px;
 }
