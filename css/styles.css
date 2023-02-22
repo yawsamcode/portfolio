@@ -298,13 +298,13 @@ article {
 }
 
 .form-title {
-  font-family: 'Inter'sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 32px;
   font-weight: 700;
   line-height: 44px;
   text-align: center;
   color: #172b4d;
-  width: 80%;
+  width: 70%;
   margin: auto;
   margin-top: 15%;
 }
