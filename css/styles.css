@@ -115,7 +115,6 @@ p {
   margin-top: 5rem;
 }
 
-
 .stack-used {
   display: flex;
   justify-items: space-between;
@@ -236,12 +235,7 @@ article {
   margin-bottom: 20%;
 }
 
-.resume-btn:hover, .submit-btn:hover, .see-project-btn:hover {
-  opacity: 0.9;
-}
-
 .submit-btn {
-  
   background: #ff6b00;
   font-family: 'Inter', sans-serif;
   border: none;
@@ -254,10 +248,17 @@ article {
   margin-bottom: 20%;
 }
 
+.resume-btn:hover, 
+.submit-btn:hover, 
+.see-project-btn:hover {
+  opacity: 0.9;
+}
+
 .btn {
   display: flex;
   justify-content: center;
 }
+
 .about-me-title {
   color: #ff6b00;
   font-family: 'Crete Round', sans-serif;
@@ -309,8 +310,9 @@ article {
   margin-top: 15%;
 }
 
-.footer-social li, form li  {
-  list-style: none
+.footer-social li,
+form li  {
+  list-style: none;
 }
 
 .footer-social{
@@ -320,7 +322,7 @@ article {
 }
 
 .footer-social img {
-margin-right: 25px;
+  margin-right: 25px;
 }
 
 .home-indicator {
@@ -350,7 +352,7 @@ input, textarea {
 }
 
 .bottom-line {
-  background-color:#0d151e;
+  background-color: #0d151e;
   height: 5px;
   width: 134px;
   border-radius: 10px;
