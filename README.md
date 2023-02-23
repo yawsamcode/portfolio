@@ -232,7 +232,7 @@ If you like this project...
 
 
 Thanks my coding partners **Yacoubou-Seidou** and **Prince Nwuke** for the creativity 
-decication they brought to this project. 
+dedication they brought to this project. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
