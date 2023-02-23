@@ -50,7 +50,7 @@ form li,
 .headline-section {
   background-color: #1c1a19;
   color: white;
-  background-image: url(/images/backgroundimage.svg);
+  background-image: url('/images/backgroundimage.svg');
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 44%;
@@ -168,7 +168,7 @@ article {
 }
 
 .project-sample {
-  background: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url(/images/project-sample-image-bg.svg);
+  background: linear-gradient(180.45deg, rgba(38, 38, 38, 0) 0.75%, rgba(38, 38, 38, 0.9) 61.94%), url('images/project-sample-image-bg.svg');
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -212,7 +212,7 @@ article {
 }
 
 .aboutme-head {
-  background-image: url(/images/about-me-mobile-bg.svg);
+  background-image: url('/images/about-me-mobile-bg.svg');
   background-repeat: no-repeat;
   background-position: bottom right;
   padding-right: 24px;
@@ -257,6 +257,8 @@ article {
 .submit-btn:hover,
 .see-project-btn:hover {
   opacity: 0.9;
+  background-color: #fff5e1;
+  color: #f55800;
 }
 
 .btn {
@@ -335,8 +337,9 @@ article {
 }
 
 .form-area {
-  max-width: 100%;
-  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
 
 input,
@@ -351,6 +354,12 @@ textarea {
   border-bottom: 1px #dbd8d7 solid;
   font-size: 16px;
 }
+textarea {
+  background-color: #fbf8f7;
+  height: 114px;
+  border-bottom: 0;
+}
+  
 
 .bottom-line {
   background-color: #0d151e;
