@@ -248,8 +248,10 @@ article {
   margin-bottom: 20%;
 }
 
-.resume-btn:hover, 
-.submit-btn:hover, 
+.resume-btn:hover,
+
+.submit-btn:hover,
+
 .see-project-btn:hover {
   opacity: 0.9;
 }
@@ -310,12 +312,12 @@ article {
   margin-top: 15%;
 }
 
-.footer-social li,
-form li  {
+form li, 
+.footer-social li {
   list-style: none;
 }
 
-.footer-social{
+.footer-social {
   display: flex;
   justify-content: center;
   align-content: space-evenly;
@@ -328,9 +330,9 @@ form li  {
 .home-indicator {
   display: flex;
   flex-wrap: nowrap;
-	justify-content: space-around;
-	align-items: stretch;
-	align-content: stretch;
+  justify-content: space-around;
+  align-items: stretch;
+  align-content: stretch;
   margin-bottom: 20px;
 }
 
@@ -339,7 +341,8 @@ form li  {
   margin: auto;
 }
 
-input, textarea {
+input, 
+textarea {
   width: 80%;
   padding: 20px;
   margin: auto;
