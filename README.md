@@ -93,7 +93,7 @@ After you're finished please remove all the comments and instructions!
 
 currently not deployed you can view in localhost
 
-- [Live Demo Link](https://localhost:8000)
+- [Live Demo Link](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -183,10 +183,16 @@ Example:
 > Mention all of the collaborators of this project.
 
 👤 **Samuel Acheampong**
-
 - GitHub: [@githubhandle](https://github.com/yawsamcode)
 - Twitter: [@twitterhandle](https://twitter.com/yawsamcode)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yawsamcode)
+
+👤 **Yacoubou-Seidou**
+- GitHub: [@githubhandle](https://github.com/Yacoubou-seidou)
+
+
+👤 **Prince Nwuke**
+- GitHub: [@githubhandle](https://github.com/prius2055)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -225,7 +231,8 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-Thanks to me for not giving up. 
+Thanks my coding partners **Yacoubou-Seidou** and **Prince Nwuke** for the creativity 
+decication they brought to this project. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
