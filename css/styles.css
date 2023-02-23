@@ -254,9 +254,7 @@ article {
 }
 
 .resume-btn:hover,
-
 .submit-btn:hover,
-
 .see-project-btn:hover {
   opacity: 0.9;
 }
@@ -315,11 +313,6 @@ article {
   width: 70%;
   margin: auto;
   margin-top: 15%;
-}
-
-form li,
-.footer-social li {
-  list-style: none;
 }
 
 .footer-social {
