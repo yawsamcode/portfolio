@@ -142,7 +142,7 @@ article {
 }
 
 .tech-stack {
-  display: flex;
+  float: left;
 }
 
 .stack-style1 {
