@@ -264,7 +264,7 @@ article {
 
 /* Button when pressed */
 .submit-btn:active {
-  background-color: #fff5E1;
+  background-color: #fff5e1;
   border: 1px solid #f55800;
 }
 
@@ -349,7 +349,6 @@ article {
   align-content: stretch;
   margin-bottom: 20px;
 }
-
 
 form ul {
   width: 100%;
