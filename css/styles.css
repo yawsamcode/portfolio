@@ -358,6 +358,7 @@ form ul {
 
 input,
 textarea {
+  padding-left: 10px;
   width: 100%;
   padding-top: 20px;
   margin-bottom: 30px;
