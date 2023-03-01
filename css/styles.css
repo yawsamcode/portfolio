@@ -179,7 +179,7 @@ footer .bottom-line {
   flex-direction: column;
 }
 
-work-heading h2 {
+.work-heading h2 {
   font-family: 'Crete Round', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -459,11 +459,6 @@ work-heading h2 {
   color: #fff;
 }
 
-.aboutme-section .skills ul {
-  padding: 0;
-  list-style-type: none;
-}
-
 .aboutme-section .skills ul li {
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -644,6 +639,11 @@ work-heading h2 {
     align-items: center;
     background-position: top right;
   }
+
+  .aboutme-section .skills ul {
+  padding: 0;
+  list-style-type: none;
+}
 
   .headline-section ul.social-links {
     order: 0;
