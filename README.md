@@ -185,12 +185,6 @@ Example:
 - Twitter: [@twitterhandle](https://twitter.com/yawsamcode)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yawsamcode)
 
-👤 **Yacoubou-Seidou**
-- GitHub: [@githubhandle](https://github.com/Yacoubou-seidou)
-
-
-👤 **Prince Nwuke**
-- GitHub: [@githubhandle](https://github.com/prius2055)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,8 +223,8 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-Thanks my coding partners **Yacoubou-Seidou** and **Prince Nwuke** for the creativity 
-dedication they brought to this project. 
+Thanks to Alvee GitHub: [@githubhandle](https://github.com/0xMALVEE)
+My fist coding partner for the helping hand on this project. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
