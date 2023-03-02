@@ -392,31 +392,31 @@ textarea {
 
 @media only screen and (min-width: 768px) {
 
-.headline-section {
+    .headline-section {
     padding-left: 50px;
     padding-right: 142px;
     padding-top: 120px;
   }
 
-.headline-section p {
+    .headline-section p {
   width: 40%;
 }
 
-.nav-bar {
+    .nav-bar {
   padding-left: 142px;
   padding-right: 142px;
 }
 
-.hamburger {
+    .hamburger {
   display: none;
 }
 
-.nav-links {
-  display: flex;
-  align-items: center;
+    .nav-links {
+        display: flex;
+        align-items: center;
 }
 
-nav a {
+    nav a {
   text-decoration: none;
   color: white;
   font-family: 'Inter', sans-serif;
@@ -426,11 +426,11 @@ nav a {
   margin-right: 26px;
 }
 
-nav .nav-links a {
+    nav .nav-links a {
   margin-right: 26px;
 }
 
-.headline-section {
+    .headline-section {
   background-color: #1c1a19;
   color: white;
   background-image: url('../images/background-image-desktop.svg');
@@ -440,37 +440,37 @@ nav .nav-links a {
   padding-bottom: 250px;
 }
 
-.headline-section {
+    .headline-section {
   display: flex;
   flex-direction: row;
 }
 
-.header-social-desktop {
+    .header-social-desktop {
   visibility: visible;
   list-style: none;
 }
 
-.social-icons-left {
-padding-right: 60px;
-margin-left: -30px !important;
-padding-top: 80px;
+    .social-icons-left {
+        padding-right: 60px;
+        margin-left: -30px !important;
+        padding-top: 80px;
 }
 
-.header-social-mobile { 
+      .header-social-mobile { 
 visibility: hidden;
 }
 
-.form-section {
-  margin-top: 100px;
-  padding-left: 142px;
-  padding-right: 142px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
+      .form-section {
+        margin-top: 100px;
+        padding-left: 142px;
+        padding-right: 142px;
+        display: flex;
+        flex-direction: row;
+        align-items: center;
   
 }
 
-.form-title {
+    .form-title {
   padding-top: 0;
   display: flex;
   justify-content: start;
@@ -602,15 +602,15 @@ visibility: hidden;
   padding-bottom: 60px;
 }
 
-aboutme-head {
-  background-image: url('/images/aboutme-bottom-bg.svg');
+.aboutme-head {
+  background-image: url('../images/aboutme-bottom-bg.svg');
   background-repeat: no-repeat;
   background-position: center right;
   padding-right: 24px;
   padding-bottom: 220px;
 }
 
-.headline-section p {
+    .headline-section p {
   font-family: 'Inter', sans-serif;
   font-size: 20px;
   font-weight: 400;
@@ -619,10 +619,10 @@ aboutme-head {
   text-align: left;
   }
 
-.columns {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 2fr));
-  grid-gap: 0.5em;
+    .columns {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 2fr));
+    grid-gap: 0.5em;
   }
 
 }
