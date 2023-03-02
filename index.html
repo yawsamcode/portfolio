@@ -13,10 +13,12 @@
         <header class="nav-bar">
 
             <h1 class="name">Sam</h1>
+            
             <nav class="nav-links">
                 <a href="#">Portfolio</a>
                 <a href="#">About</a>
                 <a href="#">Contact</a>
+                <a href="#"><img src="/images/mail-icon.png" alt="Mail-Me"></a>
             </nav>
 
             <nav class="hamburger">
@@ -25,7 +27,20 @@
 
         </header>
 
+
         <section class="headline-section">
+            <section class="social-icons-left">
+            <ul class="header-social-desktop">
+                <li><a href="https://github.com/yawsamcode"><img src="./images/github.svg" alt="GitHub" class="github"></a></li>
+                <li><a href="https://www.linkedin.com/in/yawsamcode/"><img src="./images/Linkedin icon.svg" alt="Linkedin"
+                            class="linkedin"></a></li>
+                <li><a href="#"></a><img src="./images/angel list.svg" alt="Angel_List" class="angel-list"></li>
+                <li><a href="https://twitter.com/sammi_108"></a><img src="./images/twitter.svg" alt="Twitter" class="twitter"></a>
+                </li>
+                <li><a href="#"><img src="./images/medium.svg" alt="Medium" class="medium"></a></li>
+            </ul>
+            </section>
+            <section class="heading-to-right">
             <h1>Hey There. <br>
                 <h1>I’m Samuel <br></h1>
                 <h2>I’m a software developer!</h2>
@@ -34,7 +49,7 @@
                     work and experience! If you like what you see and have a project
                     you need coded, don’t hestiate to contact me.</p>
 
-                <ul class="header-social">
+                <ul class="header-social-mobile">
                     <li><a href="https://github.com/yawsamcode"><img src="./images/github.svg" alt="GitHub"
                                 class="github"></a></li>
                     <li><a href="https://www.linkedin.com/in/yawsamcode/"><img src="./images/Linkedin icon.svg"
@@ -44,6 +59,7 @@
                             class="twitter"></a></li>
                     <li><a href="#"><img src="./images/medium.svg" alt="Medium" class="medium"></a></li>
                 </ul>
+                </section>
         </section>
 
         <!-- Work Section -->
@@ -54,34 +70,42 @@
                             <hr>
                         </div>
                 </div>
-                        <div class="recent-work-post">
-                                <div class="left-post">
-                                    <img class="recent-work-photo" src="./images/recent-work.svg" 
-                                    alt="Recent-Work-Photo"> 
-                                </div>
-                                    
-                                <div class="right-post">
-                                    <h3 id="post-title">Multi-Post Stories</h3>
-                                    <article>A daily selection of privately
-                                        personalized reads; no accounts or
-                                        sign-ups required.has been the industry's
-                                        standard dummy text ever since the 1500s,
-                                        when an unknown printer took a standard dummy
-                                        text.</article>
-
-                                    <div class="tech-stack">
-                                        <p class="stack-style1">css</p>
-                                        <p class="stack-style1" id="stack-margin">html</p>
-                                        <p class="stack-style1" id="stack-margin">bootstrap</p>
-                                        <p class="stack-style1" id="stack-margin">Ruby</p>
-                                    </div>
-                                    <button class="see-project-btn">See Project</button>
-                                </div>
+                    <section class="recent-work-parent">
+                    <section class="div1">
+                        <img class="recent-work-photo" src="./images/recent-work.svg" alt="Recent-Work-Photo">
+                    </section>
+                <section class="div2">
+                    <h3 id="post-title">Multi-Post Stories</h3>
+                    <article>A daily selection of privately 
+                    personalized reads; no accounts or 
+                    sign-ups required.has been the industry's 
+                    standard dummy text ever since the 1500s, 
+                    when an unknown printer took a standard dummy 
+                    text.</article>
+                        <div class="tech-stack">
+                                <p class="stack-style1">css</p>
+                                <p class="stack-style1"id="stack-margin">html</p>
+                                <p class="stack-style1" id="stack-margin">bootstrap</p>
+                                <p class="stack-style1" id="stack-margin">Ruby</p>
                         </div>
-        
+                </section>
+            
+                    
+        </section>
 <section class="main-projects">
-/* Project 1*/
-            <div class="project-sample" class="project-sample1">
+<!-- Project1 -->
+    <div class="columns" >
+            <section class="project-sample" class="card">
+                <div class="project-details">
+                    
+                    
+                <div class="button-wrapper">
+            <div class="see-project-btn" >See Project</div>
+                </div>
+            </section>
+            
+<!-- Project2-->
+            <section class="project-sample" class="card">
                 <div class="project-details">
                     <h2>Profesional Art Printing Data</h2>
                     <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
@@ -92,11 +116,11 @@
                     <p class="stack-style2" id="stack-margin">bootstrap</p>
                     <p class="stack-style2" id="stack-margin">Ruby</p>
                 </div>
-
-            </div>
-            <div class="see-project-btn" id="long-btn">See Project</div>
-/* Project 2*/
-            <div class="project-sample">
+    <!--<div class="see-project-btn" id="long-btn">See Project</div>-->
+            </section>
+            
+<!-- Project3 -->
+            <section class="project-sample" class="card">
                 <div class="project-details">
                     <h2>Profesional Art Printing Data</h2>
                     <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
@@ -107,69 +131,57 @@
                     <p class="stack-style2" id="stack-margin">bootstrap</p>
                     <p class="stack-style2" id="stack-margin">Ruby</p>
                 </div>
-
+<!--<div class="see-project-btn" id="long-btn">See Project</div>-->
+            </section>
+    </div>
+    
+    <div class="columns">
+        <section class="project-sample" class="card">
+            <div class="project-details">
+                <h2>Profesional Art Printing Data</h2>
+                <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
+                    has been the industry's standard</article>
             </div>
-            <div class="see-project-btn" id="long-btn">See Project</div>
-/* Project 3*/
-            <div class="project-sample">
-                <div class="project-details">
-                    <h2>Profesional Art Printing Data</h2>
-                    <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
-                        has been the industry's standard</article>
-                </div>
-                <div class="stack-used">
-                    <p class="stack-style2" id="stack-margin">html</p>
-                    <p class="stack-style2" id="stack-margin">bootstrap</p>
-                    <p class="stack-style2" id="stack-margin">Ruby</p>
-                </div>
-
+            <div class="stack-used">
+                <p class="stack-style2" id="stack-margin">html</p>
+                <p class="stack-style2" id="stack-margin">bootstrap</p>
+                <p class="stack-style2" id="stack-margin">Ruby</p>
             </div>
-            <div class="see-project-btn" id="long-btn">See Project</div>
-            <div class="project-sample">
-/* Project 4*/
-                <div class="project-details">
-                    <h2>Profesional Art Printing Data</h2>
-                    <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
-                        has been the industry's standard</article>
-                </div>
-                <div class="stack-used">
-                    <p class="stack-style2" id="stack-margin">html</p>
-                    <p class="stack-style2" id="stack-margin">bootstrap</p>
-                    <p class="stack-style2" id="stack-margin">Ruby</p>
-                </div>
-
+            <!--<div class="see-project-btn" id="long-btn">See Project</div>-->
+        </section>
+    
+        <!-- Project2-->
+        <section class="project-sample" class="card">
+            <div class="project-details">
+                <h2>Profesional Art Printing Data</h2>
+                <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
+                    has been the industry's standard</article>
             </div>
-            <div class="see-project-btn" id="long-btn">See Project</div>
-/* Project 5*/
-            <div class="project-sample">
-                <div class="project-details">
-                    <h2>Profesional Art Printing Data</h2>
-                    <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
-                        has been the industry's standard</article>
-                </div>
-                <div class="stack-used">
-                    <p class="stack-style2" id="stack-margin">html</p>
-                    <p class="stack-style2" id="stack-margin">bootstrap</p>
-                    <p class="stack-style2" id="stack-margin">Ruby</p>
-                </div>
-
+            <div class="stack-used">
+                <p class="stack-style2" id="stack-margin">html</p>
+                <p class="stack-style2" id="stack-margin">bootstrap</p>
+                <p class="stack-style2" id="stack-margin">Ruby</p>
             </div>
-            <div class="see-project-btn" id="long-btn">See Project</div>
-/* Project 6*/
-            <div class="project-sample">
-                <div class="project-details">
-                    <h2>Profesional Art Printing Data</h2>
-                    <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
-                        has been the industry's standard</article>
-                </div>
-                <div class="stack-used">
-                    <p class="stack-style2" id="stack-margin">html</p>
-                    <p class="stack-style2" id="stack-margin">bootstrap</p>
-                    <p class="stack-style2" id="stack-margin">Ruby</p>
-                </div>
+            <!--<div class="see-project-btn" id="long-btn">See Project</div>-->
+        </section>
+    
+        <!-- Project3 -->
+        <section class="project-sample" class="card">
+            <div class="project-details">
+                <h2>Profesional Art Printing Data</h2>
+                <article>A daily selection of privately personalized reads; no accounts or sign-ups required.
+                    has been the industry's standard</article>
             </div>
-            <div class="see-project-btn" id="long-btn">See Project</div>
-       </section>
+            <div class="stack-used">
+                <p class="stack-style2" id="stack-margin">html</p>
+                <p class="stack-style2" id="stack-margin">bootstrap</p>
+                <p class="stack-style2" id="stack-margin">Ruby</p>
+            </div>
+            <!--<div class="see-project-btn" id="long-btn">See Project</div>-->
+        </section>
+    </div>
+            
+</section>
 </section>
 
         <section class="about-me-section">

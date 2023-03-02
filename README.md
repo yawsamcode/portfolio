@@ -178,19 +178,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Samuel Acheampong**
 - GitHub: [@githubhandle](https://github.com/yawsamcode)
 - Twitter: [@twitterhandle](https://twitter.com/yawsamcode)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yawsamcode)
 
-👤 **Yacoubou-Seidou**
-- GitHub: [@githubhandle](https://github.com/Yacoubou-seidou)
-
-
-👤 **Prince Nwuke**
-- GitHub: [@githubhandle](https://github.com/prius2055)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,8 +221,7 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-Thanks my coding partners **Yacoubou-Seidou** and **Prince Nwuke** for the creativity 
-dedication they brought to this project. 
+Thanks to Microverse for investing in me.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
