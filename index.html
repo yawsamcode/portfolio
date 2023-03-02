@@ -6,11 +6,10 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./css/styles.css">
-    <title>Sam | Full Stack Dev</title>
+    <title>Sam | Full Stack Developer</title>
 </head>
 
 <body>
-    <div class="container">
         <header class="nav-bar">
 
             <h1 class="name">Sam</h1>
@@ -168,51 +167,58 @@
             </div>
             <hr class="footer-line">
 
-            <div class="skills">
-                <div class="skills-title">
-                    <img src="./images/language-icon.svg" alt="language-icon">
-                    <h3>Language</h3>
-                </div>
-                <ul>
-                    <li>Javascript</li>
-                    <li>Ruby</li>
-                    <li>Html</li>
-                    <li>Css</li>
-                </ul>
-            </div>
-            <div class="skills">
-                <div class="skills-title">
-                    <img src="./images/framework-icon.svg" alt="framework-icon">
-                    <h3>Framework</h3>
-                </div>
-                <ul>
-                    <li>Bootstrap</li>
-                    <li>Ruby on Rails</li>
-                    <li>RSPec</li>
-                    <li>CapyBara</li>
-                    <li>Selenium</li>
-                </ul>
-            </div>
-
-            <div class="skills">
-                <div class="skills-title">
-                    <img src="./images/skill-icon.svg" alt="skill-icon">
-                    <h3>Skills</h3>
-                </div>
-                <ul>
-                    <li>Codekit</li>
-                    <li>Github</li>
-                    <li>Codepen</li>
-                    <li>Gitlab</li>
-                    <li>Terminal</li>
-                </ul>
+            <div class="columns">
+                <section class="card">
+                    <div class="skills">
+                        <div class="skills-title">
+                            <img src="./images/language-icon.svg" alt="language-icon">
+                            <h3>Language</h3>
+                        </div>
+                        <ul>
+                            <li>Javascript</li>
+                            <li>Ruby</li>
+                            <li>Html</li>
+                            <li>Css</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class="card">
+                    <div class="skills">
+                        <div class="skills-title">
+                            <img src="./images/framework-icon.svg" alt="framework-icon">
+                            <h3>Framework</h3>
+                        </div>
+                        <ul>
+                            <li>Bootstrap</li>
+                            <li>Ruby on Rails</li>
+                            <li>RSPec</li>
+                            <li>CapyBara</li>
+                            <li>Selenium</li>
+                        </ul>
+                    </div>
+                </section>
+                <section class="card">
+                    <div class="skills">
+                        <div class="skills-title">
+                            <img src="./images/skill-icon.svg" alt="skill-icon">
+                            <h3>Skills</h3>
+                        </div>
+                        <ul>
+                            <li>Codekit</li>
+                            <li>Github</li>
+                            <li>Codepen</li>
+                            <li>Gitlab</li>
+                            <li>Terminal</li>
+                        </ul>
+                    </div>
+                </section>
             </div>
         </section>
         <section class="form-section">
             <h2 class="form-title">I'm always interested in hearing about new projects, so if you'd like to chat please
                 get in touch.</h2>
 
-            <form class="form-area" action="https://formspree.io/f/mjvdwrry" method="POST">
+            <form class="form-wrapper" action="https://formspree.io/f/mjvdwrry" method="POST">
                 <ul>
                     <li>
                         <input type="text" id="name" placeholder="Full Name" maxlength="30" required>
