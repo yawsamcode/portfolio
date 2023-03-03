@@ -399,21 +399,21 @@ textarea {
   }
 
     .headline-section p {
-  width: 40%;
+    width: 40%;
 }
 
     .nav-bar {
-  padding-left: 142px;
-  padding-right: 142px;
+    padding-left: 142px;
+    padding-right: 142px;
 }
 
     .hamburger {
-  display: none;
+    display: none;
 }
 
     .nav-links {
-        display: flex;
-        align-items: center;
+      display: flex;
+      align-items: center;
 }
 
     nav a {
