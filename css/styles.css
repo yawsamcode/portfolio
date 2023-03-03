@@ -391,8 +391,7 @@ textarea {
 }
 
 @media only screen and (min-width: 768px) {
-
-    .headline-section {
+      .headline-section {
     padding-left: 50px;
     padding-right: 142px;
     padding-top: 120px;
