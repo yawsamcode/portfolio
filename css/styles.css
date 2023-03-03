@@ -381,14 +381,14 @@ textarea {
   background-color: #fbf8f7;
   height: 114px;
   border-bottom: 0;
-}
+  }
 
 .bottom-line {
   background-color: #0d151e;
   height: 5px;
   width: 134px;
   border-radius: 10px;
-}
+  }
 
 @media only screen and (min-width: 768px) {
       .headline-section {
@@ -397,22 +397,22 @@ textarea {
     padding-top: 120px;
   }
 
-    .headline-section p {
-    width: 40%;
-}
+      .headline-section p {
+      width: 40%;
+  }
 
-    .nav-bar {
-    padding-left: 142px;
-    padding-right: 142px;
-}
+      .nav-bar {
+      padding-left: 142px;
+      padding-right: 142px;
+  }
 
-    .hamburger {
-    display: none;
-}
+      .hamburger {
+      display: none;
+  }
 
-    .nav-links {
-      display: flex;
-      align-items: center;
+      .nav-links {
+        display: flex;
+        align-items: center;
 }
 
     nav a {
