@@ -456,11 +456,11 @@ textarea {
         padding-top: 80px;
 }
 
-      .header-social-mobile { 
-visibility: hidden;
+    .header-social-mobile { 
+        visibility: hidden;
 }
 
-      .form-section {
+    .form-section {
         margin-top: 100px;
         padding-left: 142px;
         padding-right: 142px;
