@@ -402,8 +402,8 @@ textarea {
 }
 
 .nav-bar {
-padding-left: 142px;
-padding-right: 142px;
+  padding-left: 142px;
+  padding-right: 142px;
 }
 
 .hamburger {
@@ -459,7 +459,6 @@ padding-top: 80px;
 visibility: hidden;
 }
 
-
 .form-section {
   margin-top: 100px;
   padding-left: 142px;
@@ -485,7 +484,7 @@ visibility: hidden;
 }
 
 .form {
-width: 60%;
+  width: 60%;
 }
 
 .columns {
@@ -493,6 +492,7 @@ width: 60%;
   grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   grid-gap: 3em;
 } 
+
 .about-me-section {
   padding-left: 142px;
   padding-right: 142px;
@@ -505,7 +505,6 @@ width: 60%;
   line-height: 32px;
   letter-spacing: 0em;
   text-align: left;
-
 }
 
 .aboutme-head {
@@ -582,14 +581,12 @@ width: 60%;
 
 }
 
-/* Big Screen */
 @media only screen and (min-width: 1100px) {
 .form-wrapper {
-width: 80%;
+  width: 80%;
 }
 
 .form-title {
-  /*margin-top: 200px;*/
   display: flex;
   justify-content: start;
   text-align: left;
@@ -613,12 +610,12 @@ aboutme-head {
 }
 
 .headline-section p {
-font-family: 'Inter', sans-serif;
-font-size: 20px;
-font-weight: 400;
-line-height: 32px;
-letter-spacing: 0em;
-text-align: left;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
 .columns {
