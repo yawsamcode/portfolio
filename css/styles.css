@@ -431,6 +431,9 @@ textarea {
 }
 
 @media only screen and (min-width: 768px) {
+  .nav a:hover {
+    color:#ff6b000;
+  }
   .headline-section p {
     width: 60%;
   }
