@@ -25,11 +25,6 @@ OPTIONAL SECTIONS:
 After you're finished please remove all the comments and instructions!
 -->
 
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- <img src="https://raw.githubusercontent.com/microverseinc/readme-template/master/murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
   <h3><b>Sam Portfolio</b></h3>
 
 </div>
@@ -178,19 +173,11 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Samuel Acheampong**
 - GitHub: [@githubhandle](https://github.com/yawsamcode)
 - Twitter: [@twitterhandle](https://twitter.com/yawsamcode)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/yawsamcode)
 
-👤 **Yacoubou-Seidou**
-- GitHub: [@githubhandle](https://github.com/Yacoubou-seidou)
-
-
-👤 **Prince Nwuke**
-- GitHub: [@githubhandle](https://github.com/prius2055)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,8 +216,7 @@ If you like this project...
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-Thanks my coding partners **Yacoubou-Seidou** and **Prince Nwuke** for the creativity 
-dedication they brought to this project. 
+Thanks to Microverse for investing in me.  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
