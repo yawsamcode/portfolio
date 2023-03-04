@@ -174,9 +174,7 @@ article {
 /** Insert code here */
 
 .all-projects-feature {
-  background-image: url(../images/project1-and-4.svg);
-  background-repeat: no-repeat;
-  background-position: center;
+  background-image: url('../images/project1-and-4.svg') no-repeat center center fixed;
   background-size: cover;
   color: white;
 }
@@ -211,7 +209,7 @@ article {
   padding-top: 12px;
   padding-bottom: 12px;
   width: 100%;
-  background-color:#ff6b00;
+  background-color: #ff6b00;
   border: #ff6b00;
   color: white;
   font-family: 'Inter', sans-serif;
@@ -433,7 +431,7 @@ textarea {
 
 @media only screen and (min-width: 768px) {
   .headline-section p {
-    width: 40%;
+    width: 60%;
   }
 
   .nav-bar {
@@ -637,8 +635,16 @@ textarea {
     background-image: url("../images/project3-and-6.png");
   }
 
+  .sub-project4 {
+    background-image: url("../images/project1-and-4.svg");
+  }
+
   .sub-project5 {
     background-image: url("../images/project2-and-5.svg");
+  }
+
+  .sub-project6 {
+    background-image: url("../images/project3-and-6.png");
   }
 
   .btn-container button {
