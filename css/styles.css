@@ -431,9 +431,6 @@ textarea {
 }
 
 @media only screen and (min-width: 768px) {
-  .nav a:hover {
-    color:#ff6b000;
-  }
   .headline-section p {
     width: 60%;
   }
@@ -465,6 +462,12 @@ textarea {
   nav .nav-links a {
     margin-right: 26px;
   }
+
+  .nav a:hover {
+    color: #ff6b00;
+  }
+
+  
 
   .headline-section {
     background-color: #1c1a19;
@@ -665,11 +668,12 @@ textarea {
     display: block !important;
     margin-top: 350px;
   }
-  
+
   .sub-project1.btn-container button:hover {
-    background:#FFF51;
-    color:#F55800;
+    background: #fff5e1;
+    color: #f55800;
   }
+
   .sub-project1 .btn-container {
     align-content: flex-end;
   }
