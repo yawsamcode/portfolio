@@ -83,8 +83,7 @@ After you're finished please remove all the comments and instructions!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## [🚀 Live Demo] (https://yawsamcode.github.io/portfolio/)
+## [🚀Live Demo](https://yawsamcode.github.io/portfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
