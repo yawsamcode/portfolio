@@ -84,7 +84,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+## 🚀 Live Demo <a name="https://yawsamcode.github.io/portfolio/"></a>
 
 
 
@@ -115,7 +115,7 @@ commands:
 
 ```sh
   cd my-folder
-git clone https://github.com/yawsamcode/sam-portfolio.git
+git clone https://github.com/yawsamcode/portfolio
 ```
 
 ### Install

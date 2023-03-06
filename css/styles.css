@@ -174,7 +174,8 @@ article {
 /** Insert code here */
 
 .all-projects-feature {
-  background-image: url('../images/project1-and-4.svg') no-repeat center center fixed;
+  background-image: url('../images/project1-and-4.svg');
+  background-repeat: no-repeat;
   background-size: cover;
   color: white;
 }
@@ -257,15 +258,6 @@ ul.tech-used li a {
   padding: 30px 50px;
 }
 
-/*
-.aboutme-head {
-  background-image: url('/images/about-me-mobile-bg.svg');
-  background-repeat: no-repeat;
-  background-position: bottom right;
-  padding-right: 24px;
-  padding-bottom: 220px;
-}
-*/
 .details-aboutme {
   font-family: 'Inter', sans-serif;
   font-style: normal;
@@ -360,6 +352,10 @@ ul.tech-used li a {
 
 .header-social-desktop {
   visibility: hidden;
+}
+
+.social-icons-left {
+  height: 50px;
 }
 
 .form-title {
